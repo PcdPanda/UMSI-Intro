@@ -1,0 +1,6 @@
+- Company Management
+  - How do the company's business run before and during the current hybrid model, and what we further improvement we can do to deliver better experience to customers?
+- Development & Security
+  - How is development and security be affected by the transition for now, and how to make them more reliable and efficient through transition? 
+- Research & Creative
+  - How's research productivity going under the transition and how to inspire the employees' creativity 
